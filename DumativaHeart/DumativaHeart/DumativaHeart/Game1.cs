@@ -59,15 +59,16 @@ namespace DumativaHeart
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            
+
+            SoundManager.AddSoundEffect("button01", Game1.Self.Content.Load<SoundEffect>("Sfx/Button01"));
+            SoundManager.AddSoundEffect("button02", Game1.Self.Content.Load<SoundEffect>("Sfx/Button02"));
+            SoundManager.AddSoundEffect("button03", Game1.Self.Content.Load<SoundEffect>("Sfx/Button03"));
+
             SoundManager.AddMusic("GameplaySong1", Game1.Self.Content.Load<Song>("Songs/Irregular Rhythm"));
             SoundManager.AddMusic("GameplaySong2", Game1.Self.Content.Load<Song>("Songs/Heart Chord"));
             SoundManager.AddMusic("title_song", Game1.Self.Content.Load<Song>("Songs/Memories"));
             SoundManager.AddMusic("GameOverSong", Game1.Self.Content.Load<Song>("Songs/Caution Flow"));
 
-            SoundManager.AddSoundEffect("button01", Game1.Self.Content.Load<SoundEffect>("Sfx/Button01"));
-            SoundManager.AddSoundEffect("button02", Game1.Self.Content.Load<SoundEffect>("Sfx/Button02"));
-            SoundManager.AddSoundEffect("button03", Game1.Self.Content.Load<SoundEffect>("Sfx/Button03"));
 
             SceneManager.setScene(new Core.Scenes.Intro(), true);
         }
@@ -105,10 +106,8 @@ namespace DumativaHeart
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.Black);
-
             
             SceneManager.draw(spriteBatch, GraphicsDevice);
-            
 
             base.Draw(gameTime);
         }

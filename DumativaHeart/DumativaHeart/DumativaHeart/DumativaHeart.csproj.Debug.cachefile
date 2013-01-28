@@ -6,10 +6,6 @@ Content\heart_bar.xnb
 Content\follow_your_heart.xnb
 Content\reading.xnb
 Content\filtro vermelho.xnb
-Content\fundoControl.xnb
-Content\fundoGame.xnb
-Content\fundoGameOver.xnb
-Content\fundoMenu.xnb
 Content\Effects\GaussianBlur.xnb
 Content\Effects\reductionEffect.xnb
 Content\Effects\resolveShadowsEffect.xnb
@@ -29,6 +25,10 @@ Content\Songs\Irregular Rhythm.xnb
 Content\Songs\Lost Memories.xnb
 Content\Songs\Memories.xnb
 Content\Songs\No Answer.xnb
+Content\fundoControl.xnb
+Content\fundoGame.xnb
+Content\fundoGameOver.xnb
+Content\fundoMenu.xnb
 Content\VideoIntro.xnb
 Content\Songs\Caution Flow.wma
 Content\Songs\Coma.wma

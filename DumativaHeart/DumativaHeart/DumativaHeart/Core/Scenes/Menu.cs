@@ -33,7 +33,6 @@ namespace DumativaHeart.Core.Scenes
             escurecida.position.X = Game1.Self.Window.ClientBounds.Width / 2;
             escurecida.position.Y = Game1.Self.Window.ClientBounds.Height / 2;
 
-
             tracinho = new Objeto2D(Game1.Self.Content.Load<Texture2D>("tracinho"));
             tracinho.position = posicao;
             contadorDrawUnderline = 0;
@@ -49,7 +48,7 @@ namespace DumativaHeart.Core.Scenes
                 if (contadorMenu > 1)
                 {
                     contadorMenu --;
-                    SoundManager.PlaySoundEffect("button0"+ contadorMenu);               
+                    //SoundManager.PlaySoundEffect("button0"+ contadorMenu);               
                 }
             }
 
@@ -58,7 +57,7 @@ namespace DumativaHeart.Core.Scenes
                 if (contadorMenu < 3)
                 {         
                     contadorMenu++;
-                    SoundManager.PlaySoundEffect("button0" + contadorMenu);      
+                    //SoundManager.PlaySoundEffect("button0" + contadorMenu);      
                 }
             }
 

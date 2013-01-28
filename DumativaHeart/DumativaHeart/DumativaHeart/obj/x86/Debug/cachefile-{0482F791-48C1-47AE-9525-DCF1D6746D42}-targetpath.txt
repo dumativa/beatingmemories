@@ -6,10 +6,6 @@ Content\heart_bar.xnb
 Content\follow_your_heart.xnb
 Content\reading.xnb
 Content\filtro vermelho.xnb
-Content\fundoControl.xnb
-Content\fundoGame.xnb
-Content\fundoGameOver.xnb
-Content\fundoMenu.xnb
 Content\Effects\GaussianBlur.xnb
 Content\Effects\reductionEffect.xnb
 Content\Effects\resolveShadowsEffect.xnb
@@ -36,3 +32,9 @@ Content\Songs\Memories.xnb
 Content\Songs\Memories.wma
 Content\Songs\No Answer.xnb
 Content\Songs\No Answer.wma
+Content\fundoControl.xnb
+Content\fundoGame.xnb
+Content\fundoGameOver.xnb
+Content\fundoMenu.xnb
+Content\VideoIntro.xnb
+Content\VideoIntro.wmv

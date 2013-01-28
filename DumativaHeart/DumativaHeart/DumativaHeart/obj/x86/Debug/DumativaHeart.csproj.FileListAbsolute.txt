@@ -88,3 +88,53 @@ C:\Users\Dumativa\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\Dumati
 C:\Users\Marcos\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\obj\x86\Debug\DumativaHeart.csprojResolveAssemblyReference.cache
 C:\Users\Dumativa\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\VideoIntro.xnb
 C:\Users\Dumativa\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\VideoIntro.wmv
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\particulaLinha.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\tracinho.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\escurecida.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Heart.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\heart_bar.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\follow_your_heart.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\reading.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\filtro vermelho.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Effects\GaussianBlur.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Effects\reductionEffect.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Effects\resolveShadowsEffect.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\OCR.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\fontDecisao.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\downbeat.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\upbeat.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Sfx\Button01.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Sfx\Button02.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Sfx\Button03.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Sfx\Tap1.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Sfx\Tap2.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Caution Flow.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Coma.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Heart Chord.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Irregular Rhythm.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Lost Memories.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Memories.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\No Answer.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\fundoControl.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\fundoGame.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\fundoGameOver.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\fundoMenu.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\VideoIntro.xnb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Caution Flow.wma
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Coma.wma
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Heart Chord.wma
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Irregular Rhythm.wma
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Lost Memories.wma
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\Memories.wma
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\Songs\No Answer.wma
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Content\VideoIntro.wmv
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Beating Memories.exe.manifest
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Beating Memories.application
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Beating Memories.exe
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\bin\x86\Debug\Beating Memories.pdb
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\obj\x86\Debug\Beating Memories.exe.manifest
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\obj\x86\Debug\Beating Memories.application
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\obj\x86\Debug\Beating Memories.exe
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeart\obj\x86\Debug\Beating Memories.pdb

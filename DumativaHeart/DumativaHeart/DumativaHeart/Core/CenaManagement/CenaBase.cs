@@ -102,7 +102,7 @@ namespace DumativaHeart.Core.CenaManagement
             {
                 if (heart.heartSpeed > 20 && heart.heartSpeed < 70)
                 {
-                    indexCena = Save.hardBeatConsequence;
+                    indexCena = Save.weakBeatConsequence;
                 }
 
                 else if (heart.heartSpeed > 70 && heart.heartSpeed < 100)
@@ -112,7 +112,7 @@ namespace DumativaHeart.Core.CenaManagement
 
                 else if (heart.heartSpeed > 100 && heart.heartSpeed < 150)
                 {
-                    indexCena = Save.weakBeatConsequence;
+                    indexCena = Save.hardBeatConsequence;
                 }
 
                 trocarTela(indexCena);
