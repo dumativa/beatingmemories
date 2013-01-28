@@ -1,0 +1,3 @@
+C:\Users\Marcos\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeartContent\obj\x86\Debug\DumativaHeartContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dumativa\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeartContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sandrinho\Desktop\dumativaheart\trunk\DumativaHeart\DumativaHeart\DumativaHeartContent\obj\x86\Debug\ResolveAssemblyReference.cache
