@@ -1,0 +1,14 @@
+Game Name: Beating Memories
+
+Team Developers:
+
+Rodrigo Marques Forti (hagen)
+Rafael Arantes Bastos (facebook login)
+Mairon Luz (maironluz)
+Lucas Rondeau Rodrigues (setlight)
+Marcos Thiago Braga (kalium)
+Rafael Bringel (ladyapollo)
+Pedro Viriato Coimbra (pedrovmlc)
+Marcelo Viriato Coimbra (facebook login)
+Jorge Luis Rocha (facebook login)
+Rodrigo Teixeira (facebook login)
